@@ -1,3 +1,7 @@
+Network Automation Script
+*************
+These scripts will allow you to send multiple commands to various routers, firewalls, access points, etc. Network Device configuration can be completed for multiple devices at once.
+
 Instructions
 *************
 
